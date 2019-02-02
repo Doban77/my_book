@@ -1,4 +1,1 @@
-Rodział 1 
-Nowa linia z wersji 1.1 
-bla bla
-zmiana z mastera
+zmiana z Git Huba
