@@ -1,1 +1,2 @@
 zmiana z Git Huba
+Kolejna zmiana z konsoli
